@@ -1,0 +1,17 @@
+{
+    "name": "amjithk/inspire",
+    "autoload": {
+        "psr-4": {
+            "Amjithk\\Inspire\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "amjith.k",
+            "email": "amjith.k@cubettech.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.0.1"
+    }
+}
